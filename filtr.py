@@ -1,8 +1,7 @@
 "pip install pillow"
-#from PIL import Image
+from PIL import Image
 
-#brazek = Image.open("2.jpg")
-obrazek=0
+obrazek = Image.open("2.jpg")
 sirka, vyska = obrazek.size
 x = 0
 
