@@ -1,4 +1,4 @@
-"pip install pillow"
+
 from PIL import Image
 
 obrazek = Image.open("2.jpg")
